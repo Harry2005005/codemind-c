@@ -27,7 +27,6 @@ int countWays(int n) {
 
 int main() {
     int n;
-
     scanf("%d", &n);
     int result = countWays(n);
     printf("%d", result);
